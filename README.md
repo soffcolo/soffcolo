@@ -6,6 +6,9 @@
 
 🏡 I'm from Bariloche, Argentina.
 
+🌸 Tattoo artist from Argentina.
+
+
 <!--
 **soffcolo/soffcolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
