@@ -1,5 +1,10 @@
 ### Hi there 👋 Im soff colo 🌸
 
+👨‍💻 Currently learning more about Full stack developer on @CoderHouse
+
+📧 How to contact me sofia.linares25@gmail.com
+
+🏡 I'm from Bariloche, Argentina.
 
 <!--
 **soffcolo/soffcolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
